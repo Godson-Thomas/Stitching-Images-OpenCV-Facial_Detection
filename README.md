@@ -2,4 +2,4 @@
 ## ***_OUTPUT_***
 
 
-<img src="https://github.com/Godson-Thomas/LabVIEW/blob/master/LabVIEW_Logo.jpg" width="500">
+<img src="https://github.com/Godson-Thomas/Stitching-Images-OpenCV-Facial_Detection/blob/master/Output.JPG" width="800">
